@@ -1,0 +1,94 @@
+﻿  Ayalysis1780.cpp
+D:\baosteel\linux-thick\parameter.h(22,17): warning C4305: “初始化”: 从“double”到“float”截断
+  Count.cpp
+D:\baosteel\linux-thick\somefounction.h(23,15): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\baosteel\linux-thick\somefounction.h(23,52): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\baosteel\linux-thick\somefounction.h(24,11): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\baosteel\linux-thick\somefounction.h(24,46): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\baosteel\linux-thick\somefounction.h(25,12): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\baosteel\linux-thick\somefounction.h(25,50): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\baosteel\linux-thick\somefounction.h(26,14): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\baosteel\linux-thick\somefounction.h(26,53): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\baosteel\linux-thick\somefounction.h(27,12): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\baosteel\linux-thick\somefounction.h(27,48): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\baosteel\linux-thick\somefounction.h(28,13): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\baosteel\linux-thick\somefounction.h(42,125): warning C4305: “初始化”: 从“double”到“float”截断
+D:\baosteel\linux-thick\somefounction.h(43,102): warning C4305: “初始化”: 从“double”到“float”截断
+D:\baosteel\linux-thick\somefounction.h(58,12): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\baosteel\linux-thick\somefounction.h(62,18): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\baosteel\linux-thick\somefounction.h(83,60): warning C4305: “初始化”: 从“double”到“float”截断
+D:\baosteel\linux-thick\somefounction.h(100,16): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\baosteel\linux-thick\somefounction.h(102,18): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\baosteel\linux-thick\somefounction.h(136,27): warning C4305: “=”: 从“double”到“float”截断
+D:\baosteel\linux-thick\somefounction.h(139,14): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\baosteel\linux-thick\Count.cpp(32,97): warning C4244: “return”: 从“double”转换到“int”，可能丢失数据
+D:\baosteel\linux-thick\Count.cpp(39,97): warning C4244: “return”: 从“double”转换到“int”，可能丢失数据
+D:\baosteel\linux-thick\Count.cpp(73,50): warning C4838: 从“double”转换到“float”需要收缩转换
+D:\baosteel\linux-thick\Count.cpp(73,50): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\baosteel\linux-thick\Count.cpp(74,32): warning C4838: 从“double”转换到“float”需要收缩转换
+D:\baosteel\linux-thick\Count.cpp(74,32): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\baosteel\linux-thick\Count.cpp(75,35): warning C4838: 从“double”转换到“float”需要收缩转换
+D:\baosteel\linux-thick\Count.cpp(75,35): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\baosteel\linux-thick\Count.cpp(76,34): warning C4838: 从“double”转换到“float”需要收缩转换
+D:\baosteel\linux-thick\Count.cpp(76,34): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\baosteel\linux-thick\Count.cpp(77,34): warning C4838: 从“double”转换到“float”需要收缩转换
+D:\baosteel\linux-thick\Count.cpp(77,34): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\baosteel\linux-thick\Count.cpp(78,33): warning C4838: 从“double”转换到“float”需要收缩转换
+D:\baosteel\linux-thick\Count.cpp(78,33): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\baosteel\linux-thick\Count.cpp(79,33): warning C4838: 从“double”转换到“float”需要收缩转换
+D:\baosteel\linux-thick\Count.cpp(79,33): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\baosteel\linux-thick\Count.cpp(80,36): warning C4838: 从“double”转换到“float”需要收缩转换
+D:\baosteel\linux-thick\Count.cpp(80,36): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\baosteel\linux-thick\Count.cpp(81,35): warning C4838: 从“double”转换到“float”需要收缩转换
+D:\baosteel\linux-thick\Count.cpp(81,35): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\baosteel\linux-thick\Count.cpp(82,35): warning C4838: 从“double”转换到“float”需要收缩转换
+D:\baosteel\linux-thick\Count.cpp(82,35): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\baosteel\linux-thick\Count.cpp(96,39): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\baosteel\linux-thick\Count.cpp(99,26): warning C4305: “+=”: 从“double”到“_Ty”截断
+          with
+          [
+              _Ty=float
+          ]
+D:\baosteel\linux-thick\Count.cpp(101,26): warning C4305: “-=”: 从“double”到“_Ty”截断
+          with
+          [
+              _Ty=float
+          ]
+  Logic.cpp
+D:\baosteel\linux-thick\parameter.h(22,17): warning C4305: “初始化”: 从“double”到“float”截断
+D:\baosteel\linux-thick\Logic.cpp(8,44): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\baosteel\linux-thick\Logic.cpp(9,41): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\baosteel\linux-thick\Logic.cpp(27,42): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\baosteel\linux-thick\Logic.cpp(28,36): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\baosteel\linux-thick\Logic.cpp(29,46): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\baosteel\linux-thick\Logic.cpp(48,40): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\baosteel\linux-thick\Logic.cpp(52,65): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\baosteel\linux-thick\Logic.cpp(81,39): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\baosteel\linux-thick\Logic.cpp(102,46): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\baosteel\linux-thick\Logic.cpp(103,39): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\baosteel\linux-thick\Logic.cpp(122,39): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\baosteel\linux-thick\Logic.cpp(123,43): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\baosteel\linux-thick\Logic.cpp(124,38): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\baosteel\linux-thick\Logic.cpp(125,45): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\baosteel\linux-thick\Logic.cpp(147,64): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\baosteel\linux-thick\Logic.cpp(158,46): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\baosteel\linux-thick\Logic.cpp(198,46): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\baosteel\linux-thick\Logic.cpp(199,44): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\baosteel\linux-thick\Logic.cpp(218,40): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\baosteel\linux-thick\Logic.cpp(219,40): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  Out.cpp
+  mian.cpp
+  parameter.cpp
+D:\baosteel\linux-thick\parameter.h(22,17): warning C4305: “初始化”: 从“double”到“float”截断
+  readsql.cpp
+D:\baosteel\linux-thick\readsql.cpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\baosteel\linux-thick\readsql.cpp(56,11): warning C4101: “colname”: 未引用的局部变量
+D:\baosteel\linux-thick\readsql.cpp(61,15): warning C4101: “colType”: 未引用的局部变量
+D:\baosteel\linux-thick\readsql.cpp(58,15): warning C4101: “scale”: 未引用的局部变量
+D:\baosteel\linux-thick\readsql.cpp(60,11): warning C4101: “colValueSizeUnion”: 未引用的局部变量
+D:\baosteel\linux-thick\readsql.cpp(59,15): warning C4101: “nullable”: 未引用的局部变量
+D:\baosteel\linux-thick\readsql.cpp(57,15): warning C4101: “colvaluesize”: 未引用的局部变量
+  正在生成代码...
+LINK : warning LNK4044: 无法识别的选项“/ldb2”；已忽略
+LINK : warning LNK4044: 无法识别的选项“/lpthread”；已忽略
+  linux-thick.vcxproj -> D:\baosteel\linux-thick\x64\Debug\linux-thick.exe

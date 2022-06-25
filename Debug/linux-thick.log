@@ -1,0 +1,5 @@
+﻿  ex89_db2.cpp
+E:\download\otl4_examples\ex89_db2.cpp(10,10): fatal error C1083: 无法打开包括文件: “otlv4.h”: No such file or directory
+  readsql.cpp
+D:\baosteel\linux-thick\readsql.cpp(3,10): fatal error C1083: 无法打开包括文件: “sqlcli.h”: No such file or directory
+  正在生成代码...
